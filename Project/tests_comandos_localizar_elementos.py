@@ -20,7 +20,7 @@ password.send_keys("secret_sauce")
 
 
 
-browser.get_screenshot_as_file("Evidences/screenshot.png")
+browser.get_screenshot_as_file("Project/Evidences/screenshot.png")
 
 time.sleep(3)
 browser.quit()
